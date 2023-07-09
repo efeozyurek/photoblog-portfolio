@@ -34,4 +34,10 @@ img{
     
 }
 
- 
+@media(max-width:900px){
+    img{
+        width: 28%;
+        margin: 1.5%;
+    }
+
+}
